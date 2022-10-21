@@ -46,6 +46,9 @@ int main()
 		case 12:
 			cout << "December";
 		break;
+		default:
+			cout << "Not a valid month."
+		break;
 	}
 	
 	return 0;
